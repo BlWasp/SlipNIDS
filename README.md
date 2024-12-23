@@ -1,4 +1,4 @@
-# SLIP NIDS
+# AlertixLab
 
 This project is a solution to quickly setup a detection lab on a Raspberry Pi for your home.
 
